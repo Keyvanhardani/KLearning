@@ -23,6 +23,12 @@ Eine JSON-Datei, die die Belohnungen speichert, die das Modell in jeder Training
 2. Führen Sie `dotnet run` aus, um das Training zu starten und die JSON-Datei zu generieren.
 3. Nach dem Training wird automatisch `plot_data.py` aufgerufen, um den Plot zu erstellen.
 
+## Visualisierung der Trainingsbelohnungen
+
+Nachdem das Training abgeschlossen ist, wird das folgende Bild erzeugt, das den Fortschritt der Trainingsbelohnungen über die Episoden hinweg zeigt:
+
+![Q-Learning Fortschritt](rewards_plot.png)
+
 ## Anforderungen
 
 - .NET 8.0
