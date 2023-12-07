@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOTZ8x4q4jcebT6bSZwDfnAHrKkp7YAizN+Ns5ZkZrbXOMsMGkrKr7/fd33lD9jd888YuzeZ/m8avDDAt0BwVQ==",
+  "success": true,
+  "projectFilePath": "/home/demon/Schreibtisch/klearning/klearning.csproj",
+  "expectedPackageFiles": [
+    "/home/demon/.nuget/packages/microsoft.netcore.platforms/3.1.4/microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "/home/demon/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/home/demon/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/demon/.nuget/packages/scottplot/4.1.69/scottplot.4.1.69.nupkg.sha512",
+    "/home/demon/.nuget/packages/system.drawing.common/4.7.2/system.drawing.common.4.7.2.nupkg.sha512",
+    "/home/demon/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
